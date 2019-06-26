@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TwitterDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Followings">
+    <Key>
+      <PropertyRef Name="Rowid" />
+    </Key>
+    <Property Name="Rowid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="User_id" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="Following_id" Type="varchar" MaxLength="25" Nullable="false" />
+  </EntityType>
+  <EntityType Name="People">
+    <Key>
+      <PropertyRef Name="User_id" />
+    </Key>
+    <Property Name="User_id" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="FullName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="joined" Type="datetime" Nullable="false" />
+    <Property Name="Active" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tweets">
+    <Key>
+      <PropertyRef Name="tweet_id" />
+    </Key>
+    <Property Name="tweet_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="user_id" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="message" Type="varchar" MaxLength="140" Nullable="false" />
+    <Property Name="created" Type="datetime" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Following__Follo__24927208">
+    <End Role="People" Type="Self.People" Multiplicity="1" />
+    <End Role="Followings" Type="Self.Followings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="People">
+        <PropertyRef Name="User_id" />
+      </Principal>
+      <Dependent Role="Followings">
+        <PropertyRef Name="User_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Following__User___239E4DCF">
+    <End Role="People" Type="Self.People" Multiplicity="1" />
+    <End Role="Followings" Type="Self.Followings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="People">
+        <PropertyRef Name="User_id" />
+      </Principal>
+      <Dependent Role="Followings">
+        <PropertyRef Name="Following_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbl_Tweet__user___1DE57479">
+    <End Role="People" Type="Self.People" Multiplicity="1" />
+    <End Role="Tweets" Type="Self.Tweets" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="People">
+        <PropertyRef Name="User_id" />
+      </Principal>
+      <Dependent Role="Tweets">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TwitterDBModelStoreContainer">
+    <EntitySet Name="Followings" EntityType="Self.Followings" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="People" EntityType="Self.People" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tweets" EntityType="Self.Tweets" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Following__Follo__24927208" Association="Self.FK__Following__Follo__24927208">
+      <End Role="People" EntitySet="People" />
+      <End Role="Followings" EntitySet="Followings" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Following__User___239E4DCF" Association="Self.FK__Following__User___239E4DCF">
+      <End Role="People" EntitySet="People" />
+      <End Role="Followings" EntitySet="Followings" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbl_Tweet__user___1DE57479" Association="Self.FK__tbl_Tweet__user___1DE57479">
+      <End Role="People" EntitySet="People" />
+      <End Role="Tweets" EntitySet="Tweets" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,151 @@
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\obj\Debug\TwitterClone.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\csc.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\csc.exe.config
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\csc.rsp
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\csi.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\csi.rsp
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\vbc.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\vbc.rsp
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\ApplicationInsights.config
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\TwitterClone.dll.config
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\TwitterClone.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\TwitterClone.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\EntityFramework.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\System.Web.Helpers.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\System.Web.Mvc.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\System.Web.Optimization.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\System.Web.Razor.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\System.Web.WebPages.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\TwitterEntity.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\TwitterService.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\WebGrease.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\TwitterEntity.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\TwitterEntity.dll.config
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\TwitterService.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\TwitterService.dll.config
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\EntityFramework.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\System.Web.Helpers.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\System.Web.Mvc.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\System.Web.Optimization.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\System.Web.Razor.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\System.Web.WebPages.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\obj\Debug\TwitterClone.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TwitterClone\obj\Debug\TwitterClone.pdb
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\csc.exe
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\csc.exe.config
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\csc.rsp
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\csi.exe
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\csi.rsp
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\System.AppContext.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\System.Collections.Immutable.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\System.IO.FileSystem.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\vbc.exe
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\vbc.exe.config
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\vbc.rsp
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\VBCSCompiler.exe
+C:\Assignment\TwitterClone\TwitterClone\bin\roslyn\VBCSCompiler.exe.config
+C:\Assignment\TwitterClone\TwitterClone\bin\ApplicationInsights.config
+C:\Assignment\TwitterClone\TwitterClone\bin\TwitterClone.dll.config
+C:\Assignment\TwitterClone\TwitterClone\bin\TwitterClone.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\TwitterClone.pdb
+C:\Assignment\TwitterClone\TwitterClone\bin\Antlr3.Runtime.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\EntityFramework.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\EntityFramework.SqlServer.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\Microsoft.AI.DependencyCollector.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\Microsoft.AI.Web.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\Microsoft.AI.WindowsServer.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\Microsoft.ApplicationInsights.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\Microsoft.Web.Infrastructure.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\Newtonsoft.Json.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\System.Web.Helpers.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\System.Web.Mvc.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\System.Web.Optimization.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\System.Web.Razor.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\System.Web.WebPages.Deployment.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\System.Web.WebPages.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\System.Web.WebPages.Razor.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\TwitterEntity.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\WebGrease.dll
+C:\Assignment\TwitterClone\TwitterClone\bin\TwitterEntity.pdb
+C:\Assignment\TwitterClone\TwitterClone\bin\TwitterEntity.dll.config
+C:\Assignment\TwitterClone\TwitterClone\bin\EntityFramework.xml
+C:\Assignment\TwitterClone\TwitterClone\bin\EntityFramework.SqlServer.xml
+C:\Assignment\TwitterClone\TwitterClone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Assignment\TwitterClone\TwitterClone\bin\System.Web.Helpers.xml
+C:\Assignment\TwitterClone\TwitterClone\bin\System.Web.Mvc.xml
+C:\Assignment\TwitterClone\TwitterClone\bin\System.Web.Optimization.xml
+C:\Assignment\TwitterClone\TwitterClone\bin\System.Web.Razor.xml
+C:\Assignment\TwitterClone\TwitterClone\bin\System.Web.WebPages.xml
+C:\Assignment\TwitterClone\TwitterClone\bin\System.Web.WebPages.Deployment.xml
+C:\Assignment\TwitterClone\TwitterClone\bin\System.Web.WebPages.Razor.xml
+C:\Assignment\TwitterClone\TwitterClone\bin\Antlr3.Runtime.pdb
+C:\Assignment\TwitterClone\TwitterClone\bin\Newtonsoft.Json.xml
+C:\Assignment\TwitterClone\TwitterClone\bin\Microsoft.ApplicationInsights.xml
+C:\Assignment\TwitterClone\TwitterClone\bin\Microsoft.AI.DependencyCollector.xml
+C:\Assignment\TwitterClone\TwitterClone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Assignment\TwitterClone\TwitterClone\bin\Microsoft.AI.WindowsServer.xml
+C:\Assignment\TwitterClone\TwitterClone\bin\Microsoft.AI.Web.xml
+C:\Assignment\TwitterClone\TwitterClone\obj\Debug\TwitterClone.csprojResolveAssemblyReference.cache
+C:\Assignment\TwitterClone\TwitterClone\obj\Debug\TwitterClone.dll
+C:\Assignment\TwitterClone\TwitterClone\obj\Debug\TwitterClone.pdb
